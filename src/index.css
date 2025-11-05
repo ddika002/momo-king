@@ -1,0 +1,7 @@
+
+/* Add this to your global CSS (e.g., index.css) */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
